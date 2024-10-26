@@ -1,4 +1,4 @@
-create login ewins with password = 'Damero@518';
+create login ewins with password = '12345678';
 
 create user ewins for login ewins;
 
