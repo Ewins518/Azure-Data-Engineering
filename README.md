@@ -60,7 +60,7 @@ Many thanks to [Mr K. Talks Tech ](https://www.youtube.com/@mr.ktalkstech) for o
 
 Include relevant screenshots here to illustrate Azure workspace.
 
-![SHIR](/screenshot/shir.png)
+![SHIR](/screenshot/shir.png) 
 
 ![ADF](/screenshot/CaptureWholePipeline.PNG)
 
